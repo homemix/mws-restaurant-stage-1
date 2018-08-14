@@ -15,7 +15,7 @@
     "manifest_version": 2,
     "name": "mws-restaurant-stage-1",
     "orientation": "portrait",
-    "short_name": "mws-restaurant-stage-1",
+    "short_name": "restaurant",
     "start_url": "http://127.0.0.1:8888/index.html",
     "theme_color": "#000000",
     "version": "0.1"

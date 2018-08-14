@@ -23,7 +23,8 @@ let cacheFiles = [
                './img/8.jpg',
                './img/9.jpg',
                './img/10.jpg',
-               './img/logo.png'
+               './img/logo.png',
+               'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
 				
 ]
 
