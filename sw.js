@@ -24,7 +24,17 @@ self.addEventListener('install', function(event) {
                './img/7-300.jpg',
                './img/8-300.jpg',
                './img/9-300.jpg',
-               './img/10-300.jpg'
+               './img/10-300.jpg',
+		'./restaurant.html?id=1',
+		'./restaurant.html?id=2',
+		 './restaurant.html?id=3',
+		 './restaurant.html?id=4',
+		 './restaurant.html?id=5',
+		  './restaurant.html?id=6',
+		  './restaurant.html?id=7',
+		  './restaurant.html?id=8',
+		  './restaurant.html?id=9',
+		  './restaurant.html?id=10',
                //'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
 			]);
 		})
