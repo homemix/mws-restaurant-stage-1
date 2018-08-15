@@ -24,8 +24,8 @@ self.addEventListener('install', function(event) {
                './img/7-300.jpg',
                './img/8-300.jpg',
                './img/9-300.jpg',
-               './img/10-300.jpg',
-               'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+               './img/10-300.jpg'
+               //'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
 			]);
 		})
 	);
