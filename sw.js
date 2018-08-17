@@ -35,7 +35,7 @@ self.addEventListener('install', function(event) {
 		  './restaurant.html?id=8',
 		  './restaurant.html?id=9',
 		  './restaurant.html?id=10',
-               //'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+               'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
 			]);
 		})
 	);
